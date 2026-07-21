@@ -139,4 +139,4 @@ VRAM temperatures on RTX 30/40-series GPUs.
 
 ## License
 
-MIT © xuw (olealgoritme). Bundles `flux.h` (MIT, same author).
+MIT © HiTechCloud Viet Nam by Pho Tue SoftWare Solutions JSC. Bundles `flux.h` (MIT, same author).
